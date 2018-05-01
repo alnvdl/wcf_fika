@@ -1,7 +1,7 @@
 # WCF Fika
 
 A [fika](https://en.wikipedia.org/wiki/Fika_%28Sweden%29) management
-application for [WebCLIFramework](https://github.com/alnvdl/wcf_fika#readme).
+application for [WebCLIFramework](https://github.com/alnvdl/wcf).
 
 This application was originally the motivation for the creation of the
 WebCLIFramework: I needed a way to manage fika in the team I work. We
@@ -35,8 +35,8 @@ system.
 
 Fika commands involving hosting and fund transfers require the user to be
 logged in before. See the
-[WebCLIFramework](https://github.com/alnvdl/wcf_fika#readme) documentation to
-understand what that means and the implications.
+[WebCLIFramework](https://github.com/alnvdl/wcf) documentation to understand 
+what that means and the implications.
 
 ## Installing
 1. Go to your WCF folder and run:
@@ -61,8 +61,8 @@ command to learn more about what can be done. You will need to login (using the
 `login` application) before using any useful `fika` functionality.
 
 In order to use the `login` application, you'll need to create some users
-before. See the [WebCLIFramework](https://github.com/alnvdl/wcf_fika#readme)
-documentation to learn how to do that.
+before. See the [WebCLIFramework](https://github.com/alnvdl/wcf) documentation 
+to learn how to do that.
 
 ## ToDo
 
